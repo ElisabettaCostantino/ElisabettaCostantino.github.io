@@ -1,55 +1,57 @@
 ## Composer | Performer | Live Electronics | Programmer
 
-Benvenuti!
+Welcome!
 
 ---
 
 # Ambiente 1: Elaboratore58
-### Performance Interattiva per Supporto Materico, Computer Vision e Live Electronics
+### Interactive Performance for Physical Media, Computer Vision, and Live Electronics
 
-L’opera nasce come interpretazione di **Elaboratore58** dell’artista **Gianmaria Potenza**. Il progetto è concepito per essere applicato all'intero corpus delle opere dell’artista, sia in contesti performativi che installativi, costruendo un percorso compositivo a partire dalla grammatica interna dell'opera stessa.
+This work is an interpretation of **Elaboratore58** by the artist **Gianmaria Potenza**. The project is designed to be applied to the artist's entire body of work, in both performative and installative contexts, building a compositional path based on the internal grammar of the artwork itself.
 
-####  Visione Artistica e Modalità Esecutive
-Il progetto propone un percorso che va dalla creazione dell’opera fisica alla sua completa digitalizzazione: un dialogo continuo tra realtà sonora, virtuale e ritorno al reale.
+####   Artistic Vision and Execution Modes
+The project proposes a journey from the creation of the physical work to its complete digitalization: a continuous dialogue between sonic reality, virtual reality, and a return to the real.
 
-* **Dimensione Ritmica:** L'intreccio di più suoni genera ritmi che si deformano e si frammentano fino a perdere coerenza, per poi convergere verso la precisione matematica del computer.
-* **Interazione Multimodale:** L’elaborazione è sia uditiva che visiva. Attraverso segni e materiali riconosciuti dall’Intelligenza Artificiale, il performer (o il pubblico) "scalfisce" il supporto su cui viene proiettata l’opera, rendendo visibile il dialogo tra gesto, musica e macchina.
-* **Performance vs Installazione:**
-    * In sede **performativa**, l'esecutore segue uno schema di scene prestabilito mantenendo la propria estetica. 
-    * In sede **installativa**, è il pubblico a scegliere quali scene attraversare, trasformando la composizione in un’improvvisazione semi-aperta.
-* **Memoria finale:** Al termine, il controllo passa al computer. Restano visibili i segni lasciati sul supporto virtuale: traccia finale e memoria dell’interazione avvenuta.
+* **Rhythmic Dimension:** The intertwining of multiple sounds generates rhythms that deform and fragment until they lose coherence, eventually converging toward the computer's mathematical precision.
+* **Multimodal Interaction:** The processing is both auditory and visual. Through signs and materials recognized by Artificial Intelligence, the performer (or the audience) "scratches" the media on which the work is projected, making the continuous dialogue between performer, artwork, music, and machine visible.
+* **Performance vs. Installation:**
+    * In a **performative** setting, the performer follows a pre-established scene scheme while maintaining their own aesthetic. 
+    * In an **installative** setting, the audience chooses which scenes to experience, transforming the composition into a semi-open improvisation.
+* **Final Memory:** At the end of the performance, control is left to the computer. The marks left by the performer on the virtual work remain visible, constituting the memory and final trace of the interaction.
 
-####  Architettura Tecnica del Sistema
-Per rendere possibile questa "scalfitura" digitale del supporto, il sistema utilizza:
+#### 🛠️ Technical System Architecture
+To enable this digital "scratching" of the media, the system utilizes:
 
 * **Computer Vision (AI):**
-    * **MediaPipe:** Tracciamento di 21 punti della mano (Landmarkers) per l'analisi del gesto.
-    * **YOLO (You Only Look Once):** Riconoscimento in tempo reale (45+ FPS) di strumenti specifici (Scalpello, Raschietto, Sega, Carta Abrasiva).
-* **Data Flow:** Protocollo **OSC** per la comunicazione tra l'ambiente Python e il motore di sintesi.
-* **Audio Engine:** Sviluppato in **Max/MSP**, utilizza l'oggetto *entrymatcher* per la gestione dei segni e la spazializzazione sonora.
-* **Setup Hardware:** Sistema a 3 camere (2 webcam per il tracking, 1 videocamera zenitale per la documentazione).
+    * **MediaPipe:** Tracking of 21 hand points (Landmarkers) for gesture analysis.
+    * **YOLO (You Only Look Once):** Real-time recognition (45+ FPS) of specific tools (Chisel, Scraper, Saw, Sandpaper).
+* **Data Flow:** **OSC** protocol for communication between the Python environment and the synthesis engine.
+* **Audio Engine:** Developed in **Max/MSP**, using the *entrymatcher* object for sign management and sound spatialization.
+* **Hardware Setup:** 3-camera system (2 webcams for tracking, 1 overhead camera for documentation).
 
 ---
 
-### Competenze & Strumenti
-* **Linguaggi:** Python, Max/MSP.
-* **Tecnologie:** Computer Vision, Machine Learning per la musica, OSC.
-* **Audio:** LiveElectronics.
+### Skills & Tools
+* **Languages:** Python, Max/MSP.
+* **Technologies:** Computer Vision, Machine Learning for music, OSC.
+* **Audio:** Live Electronics.
 
 ---
 
-### 📂 Documentazione e Risorse
-Per approfondire gli aspetti compositivi e i requisiti tecnici del sistema:
-* [**Partitura e Schemi Esecutivi (Google Drive)**](https://drive.google.com/drive/folders/18VMUkDlnxJY4QALqjEVSkM8_VhIa0Hnx?usp=sharing)
-* [**Codici e Patch disponibili (Google Drive)**](https://drive.google.com/drive/folders/1UqR3JRdcOenO8MQ--DNvixIVx6fs2b53?usp=sharing)
-* [**Video del concerto (YouTube)**](https://www.youtube.com/watch?v=u7rTTMUEv-U&t=2163s)
-* [![Video della Performance](https://img.youtube.com/vi/u7rTTMUEv-U/0.jpg)](https://www.youtube.com/watch?v=u7rTTMUEv-U&t=2163s)
+### 📂 Documentation and Resources
+For an in-depth look at the compositional aspects and technical requirements:
+* [**Score and Executive Schemes (Google Drive)**](https://drive.google.com/drive/folders/18VMUkDlnxJY4QALqjEVSkM8_VhIa0Hnx?usp=sharing)
+* [**Code and Patches (Google Drive)**](https://drive.google.com/drive/folders/1UqR3JRdcOenO8MQ--DNvixIVx6fs2b53?usp=sharing)
+* [**Concert Video (YouTube)**](https://www.youtube.com/watch?v=u7rTTMUEv-U&t=2163s)
+
+[![Performance Video](https://img.youtube.com/vi/u7rTTMUEv-U/0.jpg)](https://www.youtube.com/watch?v=u7rTTMUEv-U&t=2163s)
+
 ---
 
-### Contatti & Info
-📍 **Conservatorio di Musica "F. Morlacchi"**, Perugia  
+### Contacts & Info
+📍 **"F. Morlacchi" Conservatory of Music**, Perugia  
 📧 [e.costantino@studenti.conservatorioperugia.it]  
 🔗 [https://elisabettacostanti.wixsite.com/elisabetta-costantin]
 
 ---
-*© 2026 Elisabetta Costantino - Progetto ispirato alle opere di Gianmaria Potenza.*
+*© 2026 Elisabetta Costantino - Project inspired by the works of Gianmaria Potenza.*
