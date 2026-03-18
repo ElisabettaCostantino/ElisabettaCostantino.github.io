@@ -14,7 +14,7 @@ Il progetto propone un percorso che va dalla creazione dell’opera fisica alla 
 
 * **Dimensione Ritmica:** L'intreccio di più suoni genera ritmi che si deformano e si frammentano fino a perdere coerenza, per poi convergere verso la precisione matematica del computer.
 * **Interazione Multimodale:** L’elaborazione è sia uditiva che visiva. Attraverso segni e materiali riconosciuti dall’Intelligenza Artificiale, il performer (o il pubblico) "scalfisce" il supporto su cui viene proiettata l’opera, rendendo visibile il dialogo tra gesto, musica e macchina.
-* Performance vs Installazione:
+* **Performance vs Installazione:**
     * In sede **performativa**, l'esecutore segue uno schema di scene prestabilito mantenendo la propria estetica. 
     * In sede **installativa**, è il pubblico a scegliere quali scene attraversare, trasformando la composizione in un’improvvisazione semi-aperta.
 * **Memoria finale:** Al termine, il controllo passa al computer. Restano visibili i segni lasciati sul supporto virtuale: traccia finale e memoria dell’interazione avvenuta.
