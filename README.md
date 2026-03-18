@@ -15,7 +15,7 @@ She is currently specializing in **Electroacoustic Composition** at the "F. Morl
 
 #### [**Materia e Memoria**](./materiaememoria.html)
 *Materia e Memoria (2024), Sound Installation - Commissioned by  49° Cantiere Internazionale d'Arte of Montepulciano.*
-A sound exploration that arises from the interaction between electromagnetic phenomena and natural materials.
+*A sound exploration that arises from the interaction between electromagnetic phenomena and natural materials.*
 
 ​
 
