@@ -17,7 +17,7 @@ She is currently specializing in **Electroacoustic Composition** at the "F. Morl
 *An interactive interpretation of Gianmaria Potenza's work using Computer Vision (YOLO/MediaPipe) and Live Electronics.*
 
 #### [**Ambiente 1: Frammenti di una Lauda**](./ambiente1_frammentidiunalauda.html)
-*A contemporary reinterpretation of the "Laudes Creaturarum" focusing on memory rarefaction and machine autonomy.*
+*A contemporary reinterpretation of the "Laudes Creaturarum" focusing on memory rarefaction and machine autonomy based on Ambiente1 environment (YOLO/MediaPipe).*
 
 ---
 
