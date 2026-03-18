@@ -17,16 +17,16 @@ The performance proposes a journey from the physical creation to its complete di
 * **Fragmentation:** The original fragments of the *Lauda* are progressively rarefied and destroyed, accentuating their nature as a fading memory.
 * **Machine Autonomy:** The equilibrium breaks at the climax. Technology takes complete control, and the environment becomes an autonomous machine, leaving only the physical incisions as the final trace.
 ---
-<table style="width:100%; border:none; border-collapse:collapse;">
-  <tr>
-    <td style="padding:5px; border:none;"><img src="./lauda1.JPG" width="100%" style="border-radius:4px;"></td>
-    <td style="padding:5px; border:none;"><img src="./lauda2.JPG" width="100%" style="border-radius:4px;"></td>
-  </tr>
-  <tr>
-    <td style="padding:5px; border:none;"><img src="./lauda3.JPG" width="100%" style="border-radius:4px;"></td>
-    <td style="padding:5px; border:none;"><img src="./lauda4.JPG" width="100%" style="border-radius:4px;"></td>
-  </tr>
-</table>
+
+<p align="center">
+  <img src="./lauda1.jpg" width="80%" alt="Lauda Image 1" style="border-radius: 8px; margin-bottom: 20px;">
+  <br>
+  <img src="./lauda2.jpg" width="80%" alt="Lauda Image 2" style="border-radius: 8px; margin-bottom: 20px;">
+  <br>
+  <img src="./lauda3.jpg" width="80%" alt="Lauda Image 3" style="border-radius: 8px; margin-bottom: 20px;">
+  <br>
+  <img src="./lauda4.jpg" width="80%" alt="Lauda Image 4" style="border-radius: 8px; margin-bottom: 20px;">
+</p>
 
 ---
 
@@ -50,9 +50,8 @@ This work was created for **"Cantiche"**, a project supported by the **"Sostegno
 ---
 
 ###  Resources
-* [**Score and Technical Rider (Google Drive)**](https://drive.google.com/drive/folders/18VMUkDlnxJY4QALqjEVSkM8_VhIa0Hnx?usp=sharing)
-* [**Code and Patches (Google Drive)**](https://drive.google.com/drive/folders/1UqR3JRdcOenO8MQ--DNvixIVx6fs2b53?usp=sharing)
-* [**Video Documentation (YouTube)**](https://www.youtube.com/watch?v=u7rTTMUEv-U&t=2163s)
+* [**Info and Technical Rider (Google Drive)**](https://drive.google.com/drive/folders/1t140WlJAHLprfN9AcZnES3CXCDdcZhH8?usp=sharing)
+* [**Code and Patches (Google Drive)**](coming soon)
 
 ---
 
