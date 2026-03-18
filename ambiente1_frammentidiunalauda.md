@@ -19,12 +19,12 @@ The performance proposes a journey from the physical creation to its complete di
 ---
 <table style="width:100%; border:none; border-collapse:collapse;">
   <tr>
-    <td style="padding:5px; border:none;"><img src="./lauda1.jpg" width="100%" style="border-radius:4px;"></td>
-    <td style="padding:5px; border:none;"><img src="./lauda2.jpg" width="100%" style="border-radius:4px;"></td>
+    <td style="padding:5px; border:none;"><img src="./lauda1.JPG" width="100%" style="border-radius:4px;"></td>
+    <td style="padding:5px; border:none;"><img src="./lauda2.JPG" width="100%" style="border-radius:4px;"></td>
   </tr>
   <tr>
-    <td style="padding:5px; border:none;"><img src="./lauda3.jpg" width="100%" style="border-radius:4px;"></td>
-    <td style="padding:5px; border:none;"><img src="./lauda4.jpg" width="100%" style="border-radius:4px;"></td>
+    <td style="padding:5px; border:none;"><img src="./lauda3.JPG" width="100%" style="border-radius:4px;"></td>
+    <td style="padding:5px; border:none;"><img src="./lauda4.JPG" width="100%" style="border-radius:4px;"></td>
   </tr>
 </table>
 
