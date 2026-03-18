@@ -1,7 +1,5 @@
 ## Composer | Performer | Live Electronics | Programmer
 
-Welcome!
-
 ---
 
 # Ambiente 1: Elaboratore58
