@@ -2,7 +2,7 @@
 
 ---
 
-### 👤 About
+###  About
 **Elisabetta Costantino** (born 2001, Ancona) is an Italian electroacoustic composer and performer. She graduated in Classical Guitar in 2020 with top marks from the "C. Rinaldini" Music High School in Ancona, under the guidance of Stefano Laureti and Fabio Rossini.
 
 During her educational journey, she delved into the compositional processes of **Iannis Xenakis**, developing a research thesis titled *"Iannis Xenakis and Game Theory"* under the supervision of Roberto Calosci. Her training includes numerous Masterclasses in Chamber Music and Interpretative Techniques, such as the International Music Courses of the City of Viterbo held by Angelo Ferraro.
@@ -11,26 +11,26 @@ She is currently specializing in **Electroacoustic Composition** at the "F. Morl
 
 ---
 
-### 🎨 Featured Projects
+###  Featured Projects
 
 #### [**Ambiente 1: Elaboratore 58**](./elaboratore58.html)
 *An interactive interpretation of Gianmaria Potenza's work using Computer Vision (YOLO/MediaPipe) and Live Electronics.*
-👉 [View Project Details](./elaboratore58.html)
+👉 [View Project Details](./ambiente1_elaboratore58.html)
 
 #### [**Ambiente 1: Frammenti di una Lauda**](./lauda.html)
 *A contemporary reinterpretation of the "Laudes Creaturarum" focusing on memory rarefaction and machine autonomy.*
-👉 [View Project Details](./lauda.html)
+👉 [View Project Details](./ambiente1_frammentidiunalauda.html)
 
 ---
 
-### 🛠️ Technical Expertise
+###  Technical Expertise
 * **Environments:** Max/MSP, Python (OSC protocol).
 * **AI & Vision:** MediaPipe (Hand Tracking), YOLO (Object Recognition).
 * **Engineering:** Live Electronics Performance, FOH Assistance, Studio Recording.
 
 ---
 
-### 📬 Contact & Info
+###  Contact & Info
 📍 **"F. Morlacchi" Conservatory**, Perugia  
 📧 [e.costantino@studenti.conservatorioperugia.it]  
 🔗 [Historical Portfolio (Wix)](https://elisabettacostanti.wixsite.com/elisabetta-costantin)
