@@ -15,11 +15,9 @@ She is currently specializing in **Electroacoustic Composition** at the "F. Morl
 
 #### [**Ambiente 1: Elaboratore 58**](./elaboratore58.html)
 *An interactive interpretation of Gianmaria Potenza's work using Computer Vision (YOLO/MediaPipe) and Live Electronics.*
-👉 [View Project Details](./ambiente1_elaboratore58.html)
 
 #### [**Ambiente 1: Frammenti di una Lauda**](./lauda.html)
 *A contemporary reinterpretation of the "Laudes Creaturarum" focusing on memory rarefaction and machine autonomy.*
-👉 [View Project Details](./ambiente1_frammentidiunalauda.html)
 
 ---
 
