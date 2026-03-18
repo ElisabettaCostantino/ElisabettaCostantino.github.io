@@ -19,13 +19,13 @@ The performance proposes a journey from the physical creation to its complete di
 ---
 
 <p align="center">
-  <img src="./lauda1.jpg" width="80%" alt="Lauda Image 1" style="border-radius: 8px; margin-bottom: 20px;">
+  <img src="./lauda1.JPG" width="80%" alt="Lauda Image 1" style="border-radius: 8px; margin-bottom: 20px;">
   <br>
   <img src="./lauda2.jpg" width="80%" alt="Lauda Image 2" style="border-radius: 8px; margin-bottom: 20px;">
   <br>
-  <img src="./lauda3.jpg" width="80%" alt="Lauda Image 3" style="border-radius: 8px; margin-bottom: 20px;">
+  <img src="./lauda3.JPG" width="80%" alt="Lauda Image 3" style="border-radius: 8px; margin-bottom: 20px;">
   <br>
-  <img src="./lauda4.jpg" width="80%" alt="Lauda Image 4" style="border-radius: 8px; margin-bottom: 20px;">
+  <img src="./lauda4.JPG" width="80%" alt="Lauda Image 4" style="border-radius: 8px; margin-bottom: 20px;">
 </p>
 
 ---
@@ -38,7 +38,7 @@ The system relies on a complex interaction between computer vision and real-time
     * **Max/MSP:** Control interface and sign recognition system using the **entrymatcher** object (A. Harker library), communicating via **OSC** protocol.
     * **Python & Computer Vision:** Hands tracking system via **MediaPipe** (hand landmarks) and object identification through **YOLO**, transmitting data via **OSC**.
     * **OBS Studio:** Used for video routing and projection management. Visuals (the 10 paintings) are projected behind the performer, overlaying the interaction.
-* **Hardware & Tools:**  Plexiglass interface and a multi-camera tracking system.
+    * **Hardware & Tools:**  Plexiglass interface and a multi-camera tracking system.
     * **Specific Tools:** Awl (punteruolo), nail (chiodo), olive branch with blade (ramo di ulivo con lama), and stones (pietre).
 
 ---
