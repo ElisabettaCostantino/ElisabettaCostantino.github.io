@@ -6,6 +6,7 @@
 ### Interactive Performance for Physical Media, Computer Vision, and Live Electronics
 
 This work is an interpretation of **Elaboratore58** by the artist **Gianmaria Potenza**. The project is designed to be applied to the artist's entire body of work, in both performative and installative contexts, building a compositional path based on the internal grammar of the artwork itself.
+* **Special Mention:** Awarded a Special Mention in the 'Musicare l’arte di Gianmaria Potenza' competition*.
 
 ####   Artistic Vision and Execution Modes
 <p align="center">
