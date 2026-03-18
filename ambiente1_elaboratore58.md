@@ -19,7 +19,7 @@ The project proposes a journey from the creation of the physical work to its com
     * In an **installative** setting, the audience chooses which scenes to experience, transforming the composition into a semi-open improvisation.
 * **Final Memory:** At the end of the performance, control is left to the computer. The marks left by the performer on the virtual work remain visible, constituting the memory and final trace of the interaction.
 
-#### 🛠️ Technical System Architecture
+#### Technical System Architecture
 To enable this digital "scratching" of the media, the system utilizes:
 
 * **Computer Vision (AI):**
@@ -38,7 +38,7 @@ To enable this digital "scratching" of the media, the system utilizes:
 
 ---
 
-### 📂 Documentation and Resources
+### Documentation and Resources
 For an in-depth look at the compositional aspects and technical requirements:
 * [**Score and Executive Schemes (Google Drive)**](https://drive.google.com/drive/folders/18VMUkDlnxJY4QALqjEVSkM8_VhIa0Hnx?usp=sharing)
 * [**Code and Patches (Google Drive)**](https://drive.google.com/drive/folders/1UqR3JRdcOenO8MQ--DNvixIVx6fs2b53?usp=sharing)
