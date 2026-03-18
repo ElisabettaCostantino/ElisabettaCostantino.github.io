@@ -16,6 +16,7 @@ The performance proposes a journey from the physical creation to its complete di
 * **The Gesture:** The performer "scratches" the media using a specific set of tools, making the continuous dialogue between the artwork, music, and machine visible.
 * **Fragmentation:** The original fragments of the *Lauda* are progressively rarefied and destroyed, accentuating their nature as a fading memory.
 * **Machine Autonomy:** The equilibrium breaks at the climax. Technology takes complete control, and the environment becomes an autonomous machine, leaving only the physical incisions as the final trace.
+  
 ---
 
 <p align="center">
