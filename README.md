@@ -1,4 +1,3 @@
-# Elisabetta Costantino
 ## Composer | Performer | Live Electronics | Programmer
 
 Benvenuti!
