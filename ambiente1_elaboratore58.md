@@ -48,10 +48,7 @@ For an in-depth look at the compositional aspects and technical requirements:
 
 ---
 
-### Contacts & Info
-📍 **"F. Morlacchi" Conservatory of Music**, Perugia  
-📧 [e.costantino@studenti.conservatorioperugia.it]  
-🔗 [https://elisabettacostanti.wixsite.com/elisabetta-costantin]
+[← Back to Home](./index.html)
 
 [← Back to Home](./index.html)
 ---
