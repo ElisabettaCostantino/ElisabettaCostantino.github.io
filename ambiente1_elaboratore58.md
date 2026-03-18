@@ -8,6 +8,10 @@
 This work is an interpretation of **Elaboratore58** by the artist **Gianmaria Potenza**. The project is designed to be applied to the artist's entire body of work, in both performative and installative contexts, building a compositional path based on the internal grammar of the artwork itself.
 
 ####   Artistic Vision and Execution Modes
+<p align="center">
+  <img src="./lavorotalk-ElisabettaCostantino.jpg" width="80%" alt="lavorotalk-ElisabettaCostantino" style="border-radius: 8px; margin-bottom: 20px;">
+  <br>
+</p>
 The project proposes a journey from the creation of the physical work to its complete digitalization: a continuous dialogue between sonic reality, virtual reality, and a return to the real.
 
 * **Rhythmic Dimension:** The intertwining of multiple sounds generates rhythms that deform and fragment until they lose coherence, eventually converging toward the computer's mathematical precision.
