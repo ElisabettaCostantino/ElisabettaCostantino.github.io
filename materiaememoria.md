@@ -6,26 +6,24 @@ This project is a sound exploration that arises from the interaction between ele
 Through the encounter of micro-magnets, coils, and materials such as ferrite and limestone rocks, microsounds emerge—which are then manipulated and organized to create an artificial memory of the matter itself.
 
 ---
+---
 
 <table style="width:100%; border:none; border-collapse:separate; border-spacing: 10px; table-layout: fixed;">
   <tr>
     <td style="padding:0; border:none;">
-      <img src="./materia1.jpg" width="100%" style="border-radius:6px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); display: block; object-fit: cover;">
+      <img src="./materia1.jpg" width="100%" style="border-radius:6px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); display: block;">
     </td>
     <td style="padding:0; border:none;">
-      <img src="./materia2.jpg" width="100%" style="border-radius:6px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); display: block; object-fit: cover;">
-    </td>
-  </tr>
-  <tr>
-    <td style="padding:0; border:none;">
-      <img src="./materia3.jpg" width="100%" style="border-radius:6px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); display: block; object-fit: cover;">
-    </td>
-    <td style="padding:0; border:none;">
-      <img src="./materia4.jpg" width="100%" style="border-radius:6px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); display: block; object-fit: cover;">
+      <img src="./materia3.jpg" width="100%" style="border-radius:6px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); display: block;">
     </td>
   </tr>
 </table>
 
+<p align="center">
+  <img src="./materia4.jpg" width="100%" style="border-radius:6px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); max-width: 100%;">
+</p>
+
+---
 ---
 
 ###  Concept: The Reconstruction of Memory
