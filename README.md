@@ -17,7 +17,7 @@ She is currently specializing in **Electroacoustic Composition** at the "F. Morl
 *Materia e Memoria (2024), Sound Installation - Commissioned by  49° Cantiere Internazionale d'Arte of Montepulciano - [premiere] 12/17.07.2024 - Chiostro del Comune, Montepulciano (SI)*
 *A sound exploration that arises from the interaction between electromagnetic phenomena and natural materials.*
 
-#### [**Ambiente 1: Elaboratore 58**](./ambiente1_elaboratore58.html)
+#### [**Ambiente 1: Elaboratore58**](./ambiente1_elaboratore58.html)
 *An interactive interpretation of Gianmaria Potenza's work using Computer Vision (YOLO/MediaPipe) and Live Electronics.*
 
 #### [**Ambiente 1: Frammenti di una Lauda**](./ambiente1_frammentidiunalauda.html)
