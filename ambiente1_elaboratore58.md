@@ -11,8 +11,7 @@ This work is an interpretation of **Elaboratore58** by the artist **Gianmaria Po
 ####   Artistic Vision and Execution Modes
 
 <p align="center">
-  <img src="./lavorotalk-ElisabettaCostantino.jpg" width="80%" alt="lavorotalk-ElisabettaCostantino" style="border-radius: 8px; margin-bottom: 20px;">
-  <br>
+  <img src="./lavorotalk-ElisabettaCostantino.jpg" width="80%" alt="Elisabetta Costantino Talk" style="border-radius: 8px; margin-bottom: 20px;">
 </p>
 
 The project proposes a journey from the creation of the physical work to its complete digitalization: a continuous dialogue between sonic reality, virtual reality, and a return to the real.
