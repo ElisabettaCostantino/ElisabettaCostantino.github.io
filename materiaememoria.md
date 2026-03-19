@@ -1,4 +1,4 @@
-# Materia e Memoria
+# Materia e Memoria - (2024), Sound Installation - Commissioned by  49° Cantiere Internazionale d'Arte of Montepulciano
 ## Sound Installation: Electromagnetic Phenomena and Natural Materials
 
 This project is a sound exploration that arises from the interaction between electromagnetic phenomena and natural materials. 
