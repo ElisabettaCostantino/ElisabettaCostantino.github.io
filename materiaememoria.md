@@ -7,6 +7,27 @@ Through the encounter of micro-magnets, coils, and materials such as ferrite and
 
 ---
 
+<table style="width:100%; border:none; border-collapse:separate; border-spacing: 10px; table-layout: fixed;">
+  <tr>
+    <td style="padding:0; border:none;">
+      <img src="./materia1.jpg" width="100%" style="border-radius:6px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); display: block; object-fit: cover;">
+    </td>
+    <td style="padding:0; border:none;">
+      <img src="./materia2.jpg" width="100%" style="border-radius:6px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); display: block; object-fit: cover;">
+    </td>
+  </tr>
+  <tr>
+    <td style="padding:0; border:none;">
+      <img src="./materia3.jpg" width="100%" style="border-radius:6px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); display: block; object-fit: cover;">
+    </td>
+    <td style="padding:0; border:none;">
+      <img src="./materia4.jpg" width="100%" style="border-radius:6px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); display: block; object-fit: cover;">
+    </td>
+  </tr>
+</table>
+
+---
+
 ###  Concept: The Reconstruction of Memory
 The core of the installation is the reconstruction of the **memory of matter**. 
 
