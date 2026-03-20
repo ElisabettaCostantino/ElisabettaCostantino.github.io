@@ -23,7 +23,7 @@ She is currently specializing in **Electroacoustic Composition** at the "F. Morl
 #### [**Ambiente 1: Frammenti di una Lauda**](./ambiente1_frammentidiunalauda.html)
 *A contemporary reinterpretation of the "Laudes Creaturarum" focusing on memory rarefaction and machine autonomy based on Ambiente1 environment (YOLO/MediaPipe).*
 
-#### [**Talk @ Tempo Reale**](./TempoReale_Talk.html)
+#### [**Talk @ Tempo Reale - Magnetica 2026**](./TempoReale_Talk.html)
 *Ambiente 1: Elaboratore 58, the interactive interpretation of a visual artwork through MediaPipe Hands Landmarker, YOLO, and Live electronics.*
 
 ---
