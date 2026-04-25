@@ -58,7 +58,7 @@ This work was created for **"Cantiche"**, a project supported by the **"Sostegno
 
 ### Resources
 <ul>
-  <li><a href="https://www.youtube.com/watch?v=RnN5_pXjVl0&t=709s" target="_blank"><strong>Guarda la Performance (YouTube)</strong></a></li>
+  <li><a href="https://www.youtube.com/watch?v=RnN5_pXjVl0&t=709s" target="_blank"><strong> Full Performance Video (YouTube)</strong></a></li>
   <li><a href="https://drive.google.com/drive/folders/1t140WlJAHLprfN9AcZnES3CXCDdcZhH8?usp=sharing" target="_blank"><strong>Info and Technical Rider (Google Drive)</strong></a></li>
   <li><strong>Code and Patches (Google Drive)</strong> (coming soon)</li>
 </ul>
@@ -67,7 +67,7 @@ This work was created for **"Cantiche"**, a project supported by the **"Sostegno
   <a href="https://youtu.be/RnN5_pXjVl0?si=mO9CST7v8hts_2Je" target="_blank">
     <img src="https://img.youtube.com/vi/RnN5_pXjVl0/maxresdefault.jpg" alt="Guarda la Performance" style="width:80%; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
     <br>
-    <em style="display: block; margin-top: 10px;">Guarda il video della performance su YouTube</em>
+    <em style="display: block; margin-top: 10px;">Full Performance Video</em>
   </a>
 </p>
 
