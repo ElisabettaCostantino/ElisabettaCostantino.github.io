@@ -50,9 +50,20 @@ This work was created for **"Cantiche"**, a project supported by the **"Sostegno
 
 ---
 
-###  Resources
+---
+
+### Resources
+* [**Guarda la Performance (YouTube)**](https://www.youtube.com/watch?v=RnN5_pXjVl0&t=709s)
 * [**Info and Technical Rider (Google Drive)**](https://drive.google.com/drive/folders/1t140WlJAHLprfN9AcZnES3CXCDdcZhH8?usp=sharing)
 * [**Code and Patches (Google Drive)**](coming soon)
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=RnN5_pXjVl0&t=709s">
+    <img src="https://img.youtube.com/vi/RnN5_pXjVl0/0.jpg" alt="Guarda la Performance" style="width:80%; border-radius: 8px;">
+    <br>
+    <em>Guarda il video della performance su YouTube</em>
+  </a>
+</p>
 
 ---
 
